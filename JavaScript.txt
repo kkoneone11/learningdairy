@@ -1,0 +1,33 @@
+# JavaScript
+
+- 基本语法
+
+- 
+
+- 数据类型
+
+  - 字符串型（String）
+
+  - > String用于表示一个字符序列，即字符串。字符串需要使用 **单引号** 或 **双引号** 括起来。
+
+  - 数值型（Number）
+
+  - 布尔型（Boolean）
+
+  - undefined型（Undefined）
+
+  - null型（Null）
+
+- 数据类型转换
+
+- 函数
+
+- 对象
+
+- 作用域
+
+- BOM
+
+- DOM
+
+  
